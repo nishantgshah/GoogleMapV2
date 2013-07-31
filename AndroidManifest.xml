@@ -30,7 +30,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyD4KB8NMOW3NgtPeMDJ_dpXJrZ50cCNxHY" />
+            android:value="your_api_key" />
 
         <activity
             android:name="com.ngshah.googlemapv2.MainActivity"
